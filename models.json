@@ -1,0 +1,9 @@
+{
+  "email": {
+    "dataSource": "mail",
+    "public": false,
+    "options": {
+      "base": "Email"
+    }
+  }
+}
